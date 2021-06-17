@@ -1,6 +1,9 @@
 #include<stdio.h>
 
-/* main function */
+/** 
+ * main - initial code  
+ * Return: (0)
+*/
 
 int main(void)
 {
