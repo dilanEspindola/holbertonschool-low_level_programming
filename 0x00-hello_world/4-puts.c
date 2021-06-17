@@ -2,9 +2,7 @@
 
 /** 
 *main-initial code  
- 
 *Return: (0)
-
 */
 
 int main(void)
