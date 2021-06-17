@@ -1,8 +1,10 @@
 #include<stdio.h>
 
 /** 
-*main - initial code  
+*main-initial code  
+ 
 *Return: (0)
+
 */
 
 int main(void)
