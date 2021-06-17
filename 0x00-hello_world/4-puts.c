@@ -1,8 +1,8 @@
 #include<stdio.h>
 
 /** 
-*main-initial code  
-*Return: (0)
+*main-initialcode  
+*Return:(0)
 */
 
 int main(void)
