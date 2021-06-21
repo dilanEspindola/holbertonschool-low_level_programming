@@ -1,21 +1,22 @@
-#include <stdio.h>
+#include "holberton.h"
+#include "_putchar.c"
 /**
- * main - program that prints holberton
+ * main - prints holberton
  *
  * Return: (0)
- */
+*/
 int main(void)
 {
-	putchar('H');
-	putchar('o');
-	putchar('l');
-	putchar('b');
-	putchar('e');
-	putchar('r');
-	putchar('t');
-	putchar('o');
-	putchar('n');
-	putchar('\n');
+	_putchar(72);
+	_putchar(111);
+	_putchar(108);
+	_putchar(98);
+	_putchar(101);
+	_putchar(114);
+	_putchar(116);
+	_putchar(111);
+	_putchar(110);
+	_putchar('\n');
 
 	return (0);
 }
