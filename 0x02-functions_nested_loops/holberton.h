@@ -2,6 +2,7 @@
 #define holberton_h
 
 int _putchar(char);
-void prints_alphabet(void);
+void print_alphabet(void);
+void print_alphabet_x10(void);
 
 #endif
