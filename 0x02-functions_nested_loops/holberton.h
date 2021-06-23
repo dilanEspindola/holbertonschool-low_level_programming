@@ -9,5 +9,6 @@ int _isalpha(int c);
 int print_sign(int n);
 int print_last_digit(int);
 int _abs(int);
+void times_table(void);
 
 #endif
