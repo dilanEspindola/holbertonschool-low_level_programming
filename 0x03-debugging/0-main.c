@@ -1,11 +1,19 @@
 #include <stdio.h>
 #include "holberton.h"
 
-int main()
+/**
+ * main - tests function that prins if
+ * integer is positive or negative
+ *
+ * Return: 0
+*/
+
+int main(void)
 {
-	int x = 0;
-	
-	positive_or_negative(x);
+	int i;
+
+	i = 0;
+	positive_or_negative(i);
 
 	return (0);
 }
