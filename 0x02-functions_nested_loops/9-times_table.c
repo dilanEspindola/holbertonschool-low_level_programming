@@ -29,8 +29,8 @@ void times_table(void)
 
 				if (j < 9)
 				{
-					putchar(', ');
-					putchar(' ');
+					putchar(',');
+					printf("  ");
 				}
 			}
 			else
@@ -40,8 +40,8 @@ void times_table(void)
 
 				if (j < 9)
 				{
-					putchar(', ');
-					putchar(' ');
+					putchar(',');
+					printf("  ");
 				}
 			}
 		}
