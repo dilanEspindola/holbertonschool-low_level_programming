@@ -1,5 +1,5 @@
 #include <stdio.h>
-#inlude "holberton.h"
+#include "holberton.h"
 
 /**
  * print_line - draw a straight line in the terminal
