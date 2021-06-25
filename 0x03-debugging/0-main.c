@@ -1,9 +1,7 @@
 #include "holberton.h"
 
 /**
- * main - tests function that prins if
- * integer is positive or negative
- *
+ * main - tests function that prins if integer is positive or negative
  * Return: 0
 */
 
