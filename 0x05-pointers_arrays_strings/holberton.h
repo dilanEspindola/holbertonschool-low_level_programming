@@ -7,5 +7,6 @@ int _strlen(char *s);
 int _putchar(char);
 void _puts(char *str);
 void puts2(char *str);
+void print_array(int *a, int n);
 
 #endif
